@@ -1,2 +1,2 @@
 Data Warehouse
-model developement
+star-schema model developement on covid dataset
